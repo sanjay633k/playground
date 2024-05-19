@@ -1,0 +1,22 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "place to learn reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjay998d/playground.git#reactjs"
+  },
+  "author": "sanjay k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjay998d/playground/issues"
+  },
+  "homepage": "https://github.com/sanjay998d/playground/tree/reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
